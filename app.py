@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 st.set_page_config(page_title="Deep Learning: Customer Segmentation", page_icon="🧠", layout="wide")
-D = "dl_results/"
+D = ""
 R = json.load(open(D + "results.json"))
 W = np.load(D + "model_weights.npz")
 E = pd.read_csv(D + "embeddings.csv")
