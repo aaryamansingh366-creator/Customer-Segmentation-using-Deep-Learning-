@@ -2,6 +2,8 @@
 
 An autoencoder compresses each customer to 2 numbers and K-Means groups them (Part A). A feedforward neural network predicts who accepts a marketing campaign (Part B). A Streamlit app presents the results and runs the trained networks on a new customer.
 
+Link - https://4kvdrtjph8qq5jsqkphmng.streamlit.app 
+
 ## Files
 | File | Purpose |
 |---|---|
