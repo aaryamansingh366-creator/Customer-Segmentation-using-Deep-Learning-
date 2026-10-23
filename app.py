@@ -49,7 +49,7 @@ def respond_prob(x):  # trained response network, run with plain numpy
 
 
 st.title("🧠 Can a neural network find types of customers?")
-st.caption("DSE3120 Deep Learning · Nipun Bansal · Autoencoder-based customer segmentation + campaign-response network")
+st.caption("DSE3120 Deep Learning · Aaryaman Singh · Autoencoder-based customer segmentation + campaign-response network")
 t1, t2, t3, t4, t5, t6 = st.tabs(["1 · The problem", "2 · How it works", "3 · Part A: customer types",
                                   "4 · Part B: who responds", "5 · Try it", "6 · Syllabus & glossary"])
 
